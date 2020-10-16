@@ -1,0 +1,185 @@
+body{
+    background:url(bg.png) no-repeat center center fixed;
+    background-size:cover;
+    background-size:100vw 50vw;
+}
+.container{
+    text-align: center;
+    margin-top:23px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+     border-radius: 15px;
+    border: 5px solid lightgray; ;
+    font-size:50px;
+    height: 100px;
+    width: 410px;
+}
+
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    background-color:lightgray ;
+    width: 104px;
+    height: 100px;
+}
+
+.calculator{
+    background-color:gray ;
+    padding: 50px;
+    border-radius: 30px;
+    display: inline-block;
+}
+
+h1{
+    font-size: 28px;
+    font-family:'Ubuntu',sans-serif;
+}
+
+#clear,#eq{
+    color:blue;
+    background-color:orange;
+}
+
+.operator{
+    color:darkgray;
+    background-color:rgb(41,41,41);
+}
+
+#divide,#multiply,#plus,#minus{
+    font-size:50px;
+}
+
+#history{
+    text-align:right;
+    height:100px;
+    padding-top:15px;
+    font-size:40px;
+    background-color:white;
+    border:5px solid white;
+    font-family: 'Poppins', sans-serif;
+    width: 410px;
+}
+
+.Continue{
+    position:absolute;
+    top:5%;
+    left:5%;
+}
+#output{
+    text-align:right;
+    height:120px;
+    font-size:50px;
+    background-color:white;
+    border:5px solid white;
+    font-family: 'Poppins', sans-serif;
+    width: 410px;
+}
+
+.number{
+    color:black;
+    background-color: lightgray;
+}
+body{
+    background:url(bg.png) no-repeat center center fixed;
+    background-size:cover;
+    background-size:100vw 50vw;
+}
+.container{
+    text-align: center;
+    margin-top:23px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+     border-radius: 15px;
+    border: 5px solid lightgray; ;
+    font-size:50px;
+    height: 100px;
+    width: 410px;
+}
+
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    background-color:lightgray ;
+    width: 104px;
+    height: 100px;
+}
+
+.calculator{
+    background-color:gray ;
+    padding: 50px;
+    border-radius: 30px;
+    display: inline-block;
+}
+
+h1{
+    font-size: 28px;
+    font-family:'Ubuntu',sans-serif;
+}
+
+#clear,#eq{
+    color:blue;
+    background-color:orange;
+}
+
+.operator{
+    color:darkgray;
+    background-color:rgb(41,41,41);
+}
+
+#divide,#multiply,#plus,#minus{
+    font-size:50px;
+}
+
+#history{
+    text-align:right;
+    height:100px;
+    padding-top:15px;
+    font-size:40px;
+    background-color:white;
+    border:5px solid white;
+    font-family: 'Poppins', sans-serif;
+    width: 410px;
+}
+
+.Continue{
+    position:absolute;
+    top:5%;
+    left:5%;
+    font-size:24px;
+    padding:15px;
+    margin:10px 10px;
+    cursor:pointer;
+    outline:none;
+    width:5%;
+   margin:2px 2px;
+   padding:6px;
+    top:5%;
+   left:5%;
+     border:2px solid black;
+    border-radius:10px;
+    font-family:'Ubuntu',sans-serif;
+}
+#output{
+    text-align:right;
+    height:120px;
+    font-size:50px;
+    background-color:white;
+    border:5px solid white;
+    font-family: 'Poppins', sans-serif;
+    width: 410px;
+}
+
+.number{
+    color:black;
+    background-color: lightgray;
+}
